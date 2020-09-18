@@ -1,0 +1,15 @@
+# CHANGELOG for accounts
+
+This file is used to list changes made in each version of accounts.
+
+## 0.4.84:
+
+* Added support for Temenos Cloud
+
+## 0.4.83:
+
+* Added HTTP Strict Transport Security (HSTS) header
+
+## 0.4.82:
+
+* Added JVM parameter ENABLE_FABRIC_ADMIN_ADAPTER
